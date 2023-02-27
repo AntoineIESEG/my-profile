@@ -1,0 +1,43 @@
+.white-card {
+  background-color: #F9F9F9;
+  padding: 20px;
+  text-align: center;
+  width: 400px;
+  margin: 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.white-card h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.white-card p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.white-card .btn {
+  display: inline-block;
+  background-color: #000000;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.white-card .btn:hover {
+  background-color: #555555;
+}
+
+.container {
+  width: 700px; 
+  margin: 40px auto;
+}
+
+#logo { /* select the element with the id="logo" */
+  width: 70px;
+  border-radius: 50%;
+
+}
